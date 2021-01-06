@@ -17,7 +17,7 @@ START:
   MOV AX,1000
   OUT DX,AL
   MOV AL,AH
-  OUT DX,ALasdasdsa
+  OUT DX,AL
   
   MOV DX,CEL_53   ;计数器1，产生1ms的负脉冲
   MOV AL,01110110Basdasd
